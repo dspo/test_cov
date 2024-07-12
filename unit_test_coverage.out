@@ -1,4 +1,0 @@
-mode: set
-github.com/dspo/test_cov/main.go:9.13,11.2 1 0
-github.com/dspo/test_cov/calculator/calculator.go:3.24,5.2 1 1
-github.com/dspo/test_cov/calculator/calculator.go:7.29,9.2 1 0
