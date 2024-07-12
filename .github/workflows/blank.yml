@@ -39,5 +39,5 @@ jobs:
         uses: codecov/codecov-action@v4
         with:
           token: 3b6f9869-1e39-40fc-843f-021d8f908470
-          file: ./unit_test_coverage.out
+          file: unit_test_coverage.out
           flags: unittests
